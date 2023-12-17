@@ -142,6 +142,6 @@ files:
       
       if __name__ == '__main__':    ChattyBotTest('bot.bot').run_tests()
     learner_created: false
-feedback_link: https://hyperskill.org/projects/97/stages/538/implement#comment
-status: Unchecked
-record: -1
+feedback_link: https://hyperskill.org/learn/step/8803#comment
+status: Solved
+record: 4
